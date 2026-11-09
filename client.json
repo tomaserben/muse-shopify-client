@@ -1,8 +1,16 @@
 {
+  "client_id": "https://tomaserben.github.io/muse-shopify-client/client.json",
   "client_name": "Muse Code (personal)",
-  "redirect_uris": ["http://127.0.0.1:8976/oauth/callback/muse"],
-  "grant_types": ["authorization_code", "refresh_token"],
-  "response_types": ["code"],
+  "redirect_uris": [
+    "http://127.0.0.1:8976/oauth/callback/muse"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
   "token_endpoint_auth_method": "none",
   "application_type": "native"
 }
