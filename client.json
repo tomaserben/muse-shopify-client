@@ -12,5 +12,6 @@
     "code"
   ],
   "token_endpoint_auth_method": "none",
-  "application_type": "native"
+  "application_type": "native",
+  "client_uri": "https://tomaserben.github.io/muse-shopify-client/"
 }
